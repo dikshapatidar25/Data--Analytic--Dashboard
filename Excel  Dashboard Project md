@@ -1,0 +1,34 @@
+Excel Dashboard Project
+Description:
+This project is an interactive Sales Performance Dashboard built in Microsoft Excel to monitor and analyze sales executives’ performance across multiple cities in India. It provides clear visual insights into total sales, target achievement, and areas for improvement, helping managers make informed, data-driven decisions.
+
+## Dataaset used
+<a href="
+Tools & Techniques Used :
+Microsoft Excel
+
+Pivot Tables & Pivot Charts for data aggregation
+
+Slicers for interactive filtering by city and category
+
+Conditional Formatting for highlighting key metrics
+
+Data Cleaning & Preparation using Excel formulas
+
+ Key Features :
+City-based Filters: Select cities like Chennai, Delhi, Mumbai, Nagpur, Patna, Pune, Ranchi, and Surat to view region-specific performance.
+
+Top Sales Executives Table: Displays total sales achieved by leading salespeople.
+
+Target Achievement (%) View: Shows target hit percentage for each executive.
+
+Gap from Target (%) View: Highlights deviation from the set targets.
+
+Dynamic Charts & Visuals:
+
+Bar Chart – Compares total sales by sales executive.
+
+Pie Chart – Shows distribution of target achievement.
+
+Line Chart – Tracks deviation from targets over multiple executives.
+
