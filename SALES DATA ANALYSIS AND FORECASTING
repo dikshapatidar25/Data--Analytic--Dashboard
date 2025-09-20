@@ -1,0 +1,52 @@
+📊 Sales Data Analytics Power BI Project
+This project focuses on analyzing company-wide sales performance using Power BI. The dataset used provides detailed insights into product categories, regional sales, delivery status, customer segments, and more. The objective is to deliver valuable business insights, accurate 15-day sales forecasting, and an interactive, visually appealing dashboard that supports data-driven decision making and drives business success.
+
+🗂️ Dataset Used
+ 
+[Sales Dataset](./datasets/sales_data.csv)
+
+🧰 Tools & Techniques Used
+Microsoft Power BI
+Power Query Editor
+DAX Calculations
+Time-Series Forecasting
+Dashboard Design & Interactive Visualization
+
+📌 Project Steps
+🔹 Data Processing & Cleaning
+Removed irrelevant rows and null entries
+Renamed and reformatted columns for consistency
+Parsed date columns and standardized text formats
+🔹 Data Transformation
+Extracted day, month, and year from date fields
+Segmented data by category, region, shipping status, and customer type
+Created calculated columns and measures using DAX
+🔹 Analysis Performed
+Sales by product category, segment, and region
+Delivery performance metrics (late/on-time/advanced/canceled)
+Count and distribution of shipping types
+Sales breakdown by weekday and U.S. states
+Top 5 selling products
+15-day sales forecasting using historical trends
+
+
+📊 Dashboard Screenshot:
+<a href="images/Sales-Dashboard.png">
+    <img src="images/Sales-Dashboard.png" alt="Sales Dashboard" width="300">
+</a>
+
+📈 Sales Forecast:
+
+
+✅ Key Outcomes
+Total Products Sold: 113.27K
+Total Sales: $47.90M
+Average Profit Margin: 5.46%
+Top State by Sales: California ($9.7M)
+Top Segment: Home Office (51.32%)
+Most Used Shipping Type: First Class (59.7%)
+Most Sales by Region: West
+Top Product: Staples
+
+📝 Conclusion
+This sales analytics project highlights critical business insights through dynamic and interactive dashboards in Power BI. From delivery performance to product category contributions and state-wise revenue, the analysis provides a comprehensive view of the business, enabling leaders to take data-driven actions for growth and optimization.
